@@ -1,1 +1,1 @@
-This directory is about a group project on printf, unfortunately I did it alone
+This directory is about a group project on printf.
